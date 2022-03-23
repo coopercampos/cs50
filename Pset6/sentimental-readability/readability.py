@@ -1,4 +1,4 @@
-# TODO# TODO
+# TODO: if you never used nltk before, you should probably import nltk and run "nltk.download("punkt")"
 from nltk import tokenize
 
 text = input("Text: ")
